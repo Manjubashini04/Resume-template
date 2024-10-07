@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width ,initial-scale=1.0">
+        <title>Resume</title>
+    </head>
+    <body>
+        <div>
+            <h1 style="text-align: center;">Resume</h1>
+            <h2><b>Manjubashini</b></h1>
+        <p>Email: <a href="mailto:bashinimanju04@gmail.com">bashinimanju04@gmail.com</a></p>
+        <p>contact:+91 9344441035</p>
+        <p>Linkedin id: <a href="https://www.linkedin.com/in/manju-bashini-422671272/">manju-bashini-422671272</a></p>
+        <p>github id: <a href="https://github.com/Manjubashini04/Flet_project">Manjubashini04</a></p>
+        </div>
+        <p><b>PYTHON DEVELOPER</b></p> 
+        <h3><b>Summary:</b></h3>
+        <p>Highly motivated recent graduate in Electronics and Communication Engineering with a strong foundation in programming, natural language processing, and deep learning. Seeking an entry-level position to leverage my technical skills and problem-solving abilities to contribute to innovative projects in the field of AI and its applications.</p>
+        <h3><b>Experience:</b></h3>
+        <p><b>Data Science and AI Web Application Internship</b><br>
+            Successfully completed a data science and AI web application internship at openweaver community on 12 october 2023 where I gained hands-on experience in applying data science and AI techniques to real-world problems.<br>
+            Contributed to the development of several projects, including SentiSense and Story Teller, demonstrating my ability to work effectively in a team environment and deliver high-quality results.<br>
+            Achieved a 90% accuracy rate on both projects, showcasing my technical proficiency and problem-solving skills.<br></p>
+        <h3><b>Technical skills:</b></h3>
+        <ul>
+            <li>python</li>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>Javascript</li>
+            <li>SQL</li>
+        </ul>
+        <h3><b>Soft skills:</b></h3>
+        <ul>
+            <li>Problem-solving</li>
+            <li>Decision-making</li>
+            <li>Leadership</li>
+            <li>Communication</li>
+        </ul>
+        <h3><b>Interests:</b></h3>
+        <ul>
+            <li>Learning</li>
+            <li>Travelling</li>
+            <li>games</li>
+            <li>programming</li>
+        </ul>
+        <h3><b>Projects:</b></h3>
+        <h4>Medical Assistant Chatbot Using RAG</h4>
+        <p>Developed a chatbot that provides medical assistance based on a given PDF input.
+            Employed RAG to retrieve relevant information from the PDF and generate informative responses.
+            Utilized the BioMistral LLM model for training the chatbot, resulting in a highly accurate and helpful medical assistant.
+        </p>
+        <h4>Story Teller Application</h4>
+        <p>Built an AI web application that uses NLP to convert text into a story format.
+            Employed a sophisticated NLP pipeline that included tokenization, part-of-speech tagging, dependency parsing, and semantic analysis to extract the key elements of the input text and transform it into a coherent narrative. The pipeline effectively identified the main characters, plot points, and themes, allowing the application to generate engaging and well-structured stories.
+        </p>
+        <h4>Movie Recommendation Using RPA</h4>
+        <p>Developed an RPA solution to suggest movies based on user-provided reviews.
+            Utilized UiPath, a leading RPA platform, to automate the process of extracting movie reviews from online sources, analyzing the sentiment of the reviews, and matching them with relevant movies in a database..
+        </p>
+        <h4>Quote Generator Using Prompt Engineering</h4>
+        <p>Created a quote generator that generates insightful and inspiring quotes based on user-defined prompts.
+            Employed prompt engineering techniques to craft effective prompts that guide the language model towards generating high-quality quotes.
+            Utilized a powerful language model, such as GPT-3, to generate the quotes based on the provided prompts.
+        </p>
+    </body>
+</html>
