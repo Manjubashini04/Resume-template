@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width ,initial-scale=1.0">
+        <title>Resume</title>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+
+    </head>
+    <style>
+        
+        
+        div{
+            border: solid black;
+            border-radius: 5px;
+            width: 100%;
+            height: 50%;
+            background-color: aliceblue;
+            margin-bottom: 0;
+        }
+    </style>
+    <body>
+        <div>
+            <h1 style="text-align: center; text-decoration: underline;">Manjubashini</h1>
+        
+        
+            <p style="text-align: center;"><b>PYTHON DEVELOPER</b></p>
+            
+            <a href="mailto:bashinimanju04@gmail.com"><i class="material-icons">email</i></a>
+            <i class="material-icons">phone</i><p style="display: inline;">+91 9344441035</p>
+            <a href="https://www.linkedin.com/in/manju-bashini-422671272/"><img src= "C:\Users\bashi\Downloads\html\htmlcss\linkedicon.png" width="50px" height="30px"></a></img>
+            <a href="https://github.com/Manjubashini04"><img src="C:\Users\bashi\Downloads\github.png" width="50px" height="30px"></img></a>
+        <div>
+        <h3 style="text-align: left;"><b>Summary:</b></h3>
+        <p>Highly motivated recent graduate in Electronics and Communication Engineering with a strong foundation in programming, natural language processing, and deep learning. Seeking an entry-level position to leverage my technical skills and problem-solving abilities to contribute to innovative projects in the field of AI and its applications.</p>
+        </div>
+        <div>
+        <h3><b>Experience:</b></h3>
+        <ul>
+        <p><b>Data Science and AI Web Application Internship</b><br>
+            <li>Successfully completed a data science and AI web application internship at openweaver community on 12 october 2023 where I gained hands-on experience in applying data science and AI techniques to real-world problems.</li>
+            <li>Contributed to the development of several projects, including SentiSense and Story Teller, demonstrating my ability to work effectively in a team environment and deliver high-quality results.<br>
+            Achieved a 90% accuracy rate on both projects, showcasing my technical proficiency and problem-solving skills.</li></ul></p>
+            
+        </div>
+        <div>
+        <h3 style="text-align: left;"><b>Technical skills:</b></h3>
+        <ul>
+            <li>python</li>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>Javascript</li>
+            <li>SQL</li>
+        </ul>
+        
+        <h3 style="text-align: left;"><b>Soft skills:</b></h3>
+        <ul>
+            <li>Problem-solving</li>
+            <li>Decision-making</li>
+            <li>Leadership</li>
+            <li>Communication</li>
+        </ul>
+
+        <h3 style="text-align: left;"><b>Interests:</b></h3>
+        <ul>
+            <li>Learning</li>
+            <li>Travelling</li>
+            <li>games</li>
+            <li>programming</li>
+        </ul>
+        </div>
+        <div>
+            <h3><b>Education:</b></h3>
+            <ul>
+                <li>PSNA COLLEGE OF ENGINEERING AND TECHNOLOGY</li>
+                <h4>(2020-2024)</h4>
+                <p> Bachelor of Engineering in Electronics and Communication Engineering - 81%</p>
+            </ul>
+        </div>
+        <div>
+        <h3 style="text-align: left;"><b>Projects:</b></h3>
+        <ul>
+        <li><h4>Medical Assistant Chatbot Using RAG</h4></li>
+        <p>Developed a chatbot that provides medical assistance based on a given PDF input.
+            Employed RAG to retrieve relevant information from the PDF and generate informative responses.
+            Utilized the BioMistral LLM model for training the chatbot, resulting in a highly accurate and helpful medical assistant.
+        </p>
+        <li><h4>Story Teller Application</h4></li>
+        <p>Built an AI web application that uses NLP to convert text into a story format.
+            Employed a sophisticated NLP pipeline that included tokenization, part-of-speech tagging, dependency parsing, and semantic analysis to extract the key elements of the input text and transform it into a coherent narrative. The pipeline effectively identified the main characters, plot points, and themes, allowing the application to generate engaging and well-structured stories.
+        </p>
+        <li><h4>Movie Recommendation Using RPA</h4></li>
+        <p>Developed an RPA solution to suggest movies based on user-provided reviews.
+            Utilized UiPath, a leading RPA platform, to automate the process of extracting movie reviews from online sources, analyzing the sentiment of the reviews, and matching them with relevant movies in a database..
+        </p>
+        <li><h4>Quote Generator Using Prompt Engineering</h4></li>
+        <p>Created a quote generator that generates insightful and inspiring quotes based on user-defined prompts.
+            Employed prompt engineering techniques to craft effective prompts that guide the language model towards generating high-quality quotes.
+            Utilized a powerful language model, such as GPT-3, to generate the quotes based on the provided prompts.
+        </p>
+        <li><h4>Resume Template Using HTML and CSS</h4></li>
+        <p>Designed and developed a professional resume template using HTML and CSS, achieving a 95% efficiency rating.<br>
+            Demonstrated proficiency in HTML and CSS, as well as a strong understanding of web design principles and best practices.</p>
+        </ul>
+     </div>
+     
+     <div>
+        <h3 style="text-align: left;"><b>Personal details :</b></h3>
+          <ul>
+            <li>Name: Manjubashini Manikandan</li>
+            <li>DOB: 11-05-2003</li>
+            <li>Married status: Unmarried</li>
+          <li>Experience level: Fresher</li>
+        </ul>
+     </div>
+     <div>
+        <h3><b>Achievement :</b></h3>
+        <ul>
+           <li>Gained 12010 geekcoins in guvi by learning and improving my efficiency on HTML and CSS by 95%.</li>
+           <li>coding on geeksforgeeks and scored 175 marks through this I have got 90% efficiency on working with python coding</li>
+           <li>On participation of SAWIT.AI learnathon conducted by guvi awarded 9 courses of fullstack development bundle with 90% discount</li>
+           <li>I completed 21 days geekstreak challenge conducted by geeksforgeeks and Deutschebank which makes me standout with 400 rankers</li>
+           <li>I got 8370 points and awarded with silver league batch on google skills boost</li>
+           </ul>
+        </p>
+     </div>
+    </body>
+</html>
